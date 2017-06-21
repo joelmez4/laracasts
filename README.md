@@ -1,1 +1,1 @@
-"# laracasts" 
+# laracasts
